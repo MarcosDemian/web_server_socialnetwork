@@ -4,7 +4,7 @@
   "description": "Proyecto practico enfocado en la crecion de un servidor web de NodeJS",
   "license": "ISC",
   "author": "Marcos Demian Garcia",
-  "type": "commonjs",
+  "type": "module",
   "main": "src/app.js",
   "scripts": {
     "dev": "nodemon src/app.js"
